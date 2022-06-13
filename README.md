@@ -21,4 +21,4 @@ Me llama mucho la atención cómo se presentó las métricas de probabilidades d
 
 [Atajo]: https://elpais.com/deportes/eurocopa-futbol/2021-06-12/buscador-goles-esperados-progresion-y-peligro-compara-los-datos-de-500-jugadores-de-la-eurocopa.html
 
-![La producción de ataque de los jugadores de la Euro](https://www.datawrapper.de/_/T39Wa/)
+![La producción de ataque de los jugadores de la Euro](http://www.datawrapper.de/_/T39Wa)
