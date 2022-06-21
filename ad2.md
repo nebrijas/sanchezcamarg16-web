@@ -1,3 +1,4 @@
-# Actividad Dirigida 2
+# ACTIVIDAD DIRIGIDA 2
 
-Este es el texto de la actividad dirigida 2
+Vamos a empezar a ver las posibilidades de Markdown, Github y la creación de una web.
+
