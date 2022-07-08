@@ -1,4 +1,4 @@
-# Actividad Dirigida 1
+# ACTIVIDAD DIRIGIDA 1
 
 Esta actividad consiste en comentar una pieza de periodismo de datos, visualizaciones de datos o infografía, con respecto a todo lo que sepas previo a este máster o sobre los contenidos de este curso.
 
